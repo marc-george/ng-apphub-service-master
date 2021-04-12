@@ -4,7 +4,7 @@
   "version": "0.2.0",
   "repository": {
     "type": "git",
-    "url": "https://6bf4d6432cd472bc0216e946be3aad83d0b142ad:x-oauth-basic@github.build.ge.com/hubs/ng-apphub-service.git"
+    "url": "https://github.com/marc-george/ng-apphub-service-master.git"
   },
   "private": false,
   "main": "module.js",
